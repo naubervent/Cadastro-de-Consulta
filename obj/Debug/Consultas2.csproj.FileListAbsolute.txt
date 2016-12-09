@@ -1,0 +1,30 @@
+c:\users\nauber\documents\visual studio 2015\Projects\Consultas2\Consultas2\bin\Debug\Consultas2.exe.config
+C:\Users\Nauber\Documents\Visual Studio 2015\Projects\Consultas2\Consultas2\bin\Debug\Consultas2.exe
+C:\Users\Nauber\Documents\Visual Studio 2015\Projects\Consultas2\Consultas2\bin\Debug\Consultas2.pdb
+C:\Users\Nauber\Documents\Visual Studio 2015\Projects\Consultas2\Consultas2\obj\Debug\Consultas2.csprojResolveAssemblyReference.cache
+C:\Users\Nauber\Documents\Visual Studio 2015\Projects\Consultas2\Consultas2\obj\Debug\Consultas2.frmLogin.resources
+C:\Users\Nauber\Documents\Visual Studio 2015\Projects\Consultas2\Consultas2\obj\Debug\Consultas2.frmMedico.resources
+C:\Users\Nauber\Documents\Visual Studio 2015\Projects\Consultas2\Consultas2\obj\Debug\Consultas2.frmPrincipal.resources
+C:\Users\Nauber\Documents\Visual Studio 2015\Projects\Consultas2\Consultas2\obj\Debug\Consultas2.Properties.Resources.resources
+C:\Users\Nauber\Documents\Visual Studio 2015\Projects\Consultas2\Consultas2\obj\Debug\Consultas2.csproj.GenerateResource.Cache
+C:\Users\Nauber\Documents\Visual Studio 2015\Projects\Consultas2\Consultas2\obj\Debug\Consultas2.exe
+C:\Users\Nauber\Documents\Visual Studio 2015\Projects\Consultas2\Consultas2\obj\Debug\Consultas2.pdb
+C:\Users\Nauber\Documents\Visual Studio 2015\Projects\Consultas2\Consultas2\obj\Debug\Consultas2.frmPaciente.resources
+C:\Users\Nauber\documents\visual studio 2015\Projects\Consultas2\Consultas2\obj\Debug\Consultas2.frmConsultaNova.resources
+C:\Users\Nauber\documents\visual studio 2015\Projects\Consultas2\Consultas2\obj\Debug\Consultas2.frmBase.resources
+C:\Users\Nauber\documents\visual studio 2015\Projects\Consultas2\Consultas2\obj\Debug\Consultas2.frmPesquisaBase.resources
+C:\Users\Nauber\Documents\Sistemas\Linguagem_Progr_Comerc\Consultas2\Consultas2\Consultas2\bin\Debug\Consultas2.exe.config
+C:\Users\Nauber\Documents\Sistemas\Linguagem_Progr_Comerc\Consultas2\Consultas2\Consultas2\obj\Debug\Consultas2.csprojResolveAssemblyReference.cache
+C:\Users\Nauber\Documents\Sistemas\Linguagem_Progr_Comerc\Consultas2\Consultas2\Consultas2\obj\Debug\Consultas2.Properties.Resources.resources
+C:\Users\Nauber\Documents\Sistemas\Linguagem_Progr_Comerc\Consultas2\Consultas2\Consultas2\obj\Debug\Consultas2.frmBase.resources
+C:\Users\Nauber\Documents\Sistemas\Linguagem_Progr_Comerc\Consultas2\Consultas2\Consultas2\obj\Debug\Consultas2.frmConsulta.resources
+C:\Users\Nauber\Documents\Sistemas\Linguagem_Progr_Comerc\Consultas2\Consultas2\Consultas2\obj\Debug\Consultas2.frmLogin.resources
+C:\Users\Nauber\Documents\Sistemas\Linguagem_Progr_Comerc\Consultas2\Consultas2\Consultas2\obj\Debug\Consultas2.frmMedico.resources
+C:\Users\Nauber\Documents\Sistemas\Linguagem_Progr_Comerc\Consultas2\Consultas2\Consultas2\obj\Debug\Consultas2.frmPaciente.resources
+C:\Users\Nauber\Documents\Sistemas\Linguagem_Progr_Comerc\Consultas2\Consultas2\Consultas2\obj\Debug\Consultas2.frmPesquisaConsulta.resources
+C:\Users\Nauber\Documents\Sistemas\Linguagem_Progr_Comerc\Consultas2\Consultas2\Consultas2\obj\Debug\Consultas2.frmPrincipal.resources
+C:\Users\Nauber\Documents\Sistemas\Linguagem_Progr_Comerc\Consultas2\Consultas2\Consultas2\obj\Debug\Consultas2.csproj.GenerateResource.Cache
+C:\Users\Nauber\Documents\Sistemas\Linguagem_Progr_Comerc\Consultas2\Consultas2\Consultas2\bin\Debug\Consultas2.exe
+C:\Users\Nauber\Documents\Sistemas\Linguagem_Progr_Comerc\Consultas2\Consultas2\Consultas2\bin\Debug\Consultas2.pdb
+C:\Users\Nauber\Documents\Sistemas\Linguagem_Progr_Comerc\Consultas2\Consultas2\Consultas2\obj\Debug\Consultas2.exe
+C:\Users\Nauber\Documents\Sistemas\Linguagem_Progr_Comerc\Consultas2\Consultas2\Consultas2\obj\Debug\Consultas2.pdb
